@@ -1,0 +1,15 @@
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.deps.json
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.runtimeconfig.json
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.runtimeconfig.dev.json
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.dll
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.pdb
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.dll
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\netcoreapp3.1\ProjetoModeloDDD.Domain.pdb
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.dll
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.pdb
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\netcoreapp3.1\ProjetoModeloDDD.Infra.Data.genruntimeconfig.cache

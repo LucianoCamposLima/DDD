@@ -1,0 +1,2 @@
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
